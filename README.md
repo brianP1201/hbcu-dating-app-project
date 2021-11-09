@@ -88,7 +88,7 @@ The Link Dating App is a brand-new dating app targeted specifically for students
     * Profile Builder screen to edit profile
 ## Wireframes
 
-<img src="https://imgur.com/8do06qP" width=600>
+<img src="https://i.imgur.com/8do06qP.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
