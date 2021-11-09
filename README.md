@@ -90,10 +90,6 @@ The Link Dating App is a brand-new dating app targeted specifically for students
 
 <img src="https://i.imgur.com/8do06qP.jpg" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
