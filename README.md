@@ -19,8 +19,8 @@ The Link Dating App is a brand-new dating app targeted specifically for students
 - **Mobile: App features are entirely mobile-based.**
 - **Story: Allows users to meet potential dating partners who attend a Historically Black College and University (HBCU).**
 - **Market: HBCU students who are looking for dating partners with similar likes and interests could enjoy using this app.**
-- **Habit: Users can open the app at any time to change their profile and look for new dating partners. The ability to upload personal photos through the app and onto your profile, as well as messasging other users is very conducive to forming a habit using this app.**
-- **Scope: Building out a fully fleshed out UI/UX for this application could be very time-consuming and techincally challenging. A scaled-down version of the app could still be very interesting to build with the ability to search for dating partners based only on likes, interests, and preferences.**
+- **Habit: Users can open the app at any time to change their profile and look for new dating partners. The ability to upload personal photos through the app and onto your profile, as well as messaging other users is very conducive to forming a habit using this app.**
+- **Scope: Building out a fully fleshed out UI/UX for this application could be very time-consuming and technically challenging. A scaled-down version of the app could still be very interesting to build with the ability to search for dating partners based only on likes, interests, and preferences.**
 
 ## Product Spec
 
@@ -88,13 +88,35 @@ The Link Dating App is a brand-new dating app targeted specifically for students
     * Profile Builder screen to edit profile
 ## Wireframes
 
-<img src="https://i.imgur.com/8do06qP.jpg" width=600>
+<img src="https://imgur.com/a/2zPzhDJ" width=600>
+
+### [BONUS] Digital Wireframes & Mockups
+
+### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
-[Add table of models]
+![](https://i.imgur.com/Q47uJcU.png)
+![](https://i.imgur.com/ChY1u6E.png)
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+![](https://i.imgur.com/58YxJfE.png)
+![](https://i.imgur.com/RlvXM89.png)
+![](https://i.imgur.com/mrd1nez.png)
+![](https://i.imgur.com/6MV05PZ.png)
+![](https://i.imgur.com/tuc9MZq.png)
+![](https://i.imgur.com/xskt2KA.png)
+![](https://i.imgur.com/M8AwnVt.png)
+![](https://i.imgur.com/fU1TOSf.png)
+![](https://i.imgur.com/6D7ydBk.png)
+![](https://i.imgur.com/Yadl4Pr.png)
+
+
+
+
+
+
+
+
+
