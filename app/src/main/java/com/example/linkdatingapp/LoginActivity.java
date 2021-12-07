@@ -34,6 +34,8 @@ public class LoginActivity extends AppCompatActivity {
         etUsername = findViewById(R.id.etUsername);
         etPassword = findViewById(R.id.etPassword);
         btnLogin = findViewById(R.id.btnLogin);
+        btnSignup = findViewById(R.id.btnSignup);
+
         btnLogin.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
@@ -44,17 +46,16 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        btnSignup = findViewById(R.id.btnSignup);
         btnSignup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.i(TAG, "onClick sign up button");
-                String username = etUsername.getText().toString();
-                String password = etPassword.getText().toString();
-                loginUser(username, password);
+                Log.i(TAG, "onClick sign-up button");
+                Intent i = new Intent(LoginActivity.this, SignUpActivity.class);
+                startActivity(i);
             }
         });
     }
+
 
     private void loginUser(String username, String password){
         Log.i(TAG, "Attempting to login user" + username);

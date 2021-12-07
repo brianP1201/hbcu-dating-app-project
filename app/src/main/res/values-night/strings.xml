@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LinkDatingApp</string>
     <string name="create_username">Create Username</string>
     <string name="create_new_password">Create New Password</string>
     <string name="confirm_password">Confirm Password</string>
@@ -7,7 +7,7 @@
     <string name="age_prompt">How old are you?</string>
     <string name="age">Age</string>
     <string name="spinner_prompt">college</string>
-    <string name="tell_us_about_yourself">Tell us about yourself...</string>
+
     <string-array name="colleges_array">
         <item>Alabama State University</item>
         <item>Bowie State University</item>
