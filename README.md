@@ -33,12 +33,11 @@ The Link Dating App is a brand-new dating app targeted specifically for students
 * User should be able to build/edit profile with information about themselves, including likes & interests
 * User can view other profiles
 * User should be able to upload photos to their profile feed
-* User should be able to upload a profile picture
-* User can message other users
 
 
 **Optional Nice-to-have Stories**
 
+* User should be able to upload a profile picture
 * User can sort profiles based on who attends their college
 * User can sort profiles based on likes and interests
 * User can direct message another user directly from photo feed
