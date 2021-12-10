@@ -11,23 +11,16 @@
     <string-array name="colleges_array">
         <item>Alabama State University</item>
         <item>Bowie State University</item>
-        <item>Clark Atlanta University</item>
-        <item>Coppin State University</item>
-        <item>Delaware State University</item>
-        <item>Florida A&amp;M University</item>
-        <item>Grambling State University</item>
         <item>Hampton University</item>
         <item>Howard University</item>
-        <item>Jackson State University</item>
-        <item>Knoxville College</item>
-        <item>University of Maryland Eastern Shore</item>
         <item>Morehouse College</item>
         <item>Morgan State University</item>
         <item>Norfolk State University</item>
         <item>North Carolina A&amp;T State University</item>
         <item>North Carolina Central University</item>
-        <item>Tennesee State University</item>
-        <item>Texas Southern University</item>
+        <item>Tennessee State University</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
