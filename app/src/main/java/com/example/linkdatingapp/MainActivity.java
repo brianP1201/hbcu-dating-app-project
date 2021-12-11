@@ -33,9 +33,6 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
                 Fragment fragment;
                 switch (menuItem.getItemId()) {
-                    case R.id.action_home:
-                        fragment = new HomeFeedFragment();
-                        break;
                     case R.id.action_compose:
                         fragment = new ComposeFragment();
                         break;
@@ -43,8 +40,10 @@ public class MainActivity extends AppCompatActivity {
                         fragment = new MessageFragment();
                         break;
                     case R.id.action_profile:
-                    default:
                         fragment = new ProfileFragment();
+                        break;
+                    default:
+                        fragment = new HomeFeedFragment();
                         break;
                 }
                 fragmentManager.beginTransaction().replace(R.id.flContainer, fragment).commit();
