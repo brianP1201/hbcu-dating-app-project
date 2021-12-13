@@ -23,6 +23,7 @@ import androidx.annotation.Nullable;
 import androidx.core.content.FileProvider;
 import androidx.fragment.app.Fragment;
 
+import com.example.linkdatingapp.LoginActivity;
 import com.example.linkdatingapp.MainActivity;
 import com.example.linkdatingapp.Post;
 import com.example.linkdatingapp.R;
@@ -137,6 +138,7 @@ public class ComposeFragment extends Fragment {
                 savePost(description, currentUser, photoFile);
             }
         });
+
     }
 
     private void launchCamera() {
@@ -197,7 +199,7 @@ public class ComposeFragment extends Fragment {
         Post post = new Post();
         post.setDescription(description);
         post.setImage(new ParseFile(photoFile));
-        post.setKeyUser(currentUser);
+        post.setUser(currentUser);
         post.saveInBackground(new SaveCallback() {
             @Override
             public void done(ParseException e) {
