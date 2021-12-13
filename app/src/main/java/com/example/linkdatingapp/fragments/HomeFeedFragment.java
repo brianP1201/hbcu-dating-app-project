@@ -28,7 +28,7 @@ import java.util.List;
 public class HomeFeedFragment extends Fragment {
 
     public static final String TAG = "HomeFeedFragment";
-    private RecyclerView rvProfiles;
+    protected RecyclerView rvProfiles;
     protected PostsAdapter postsAdapter;
     protected ProfileAdapter profileAdapter;
     protected List<ParseUser> allProfiles;

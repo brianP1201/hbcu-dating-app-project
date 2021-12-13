@@ -10,8 +10,8 @@ public class ParseApplication extends Application {
     public void onCreate() {
         super.onCreate();
 
-        // Register your parse models
-//        ParseObject.registerSubclass(Post.class);
+//         Register your parse models
+        ParseObject.registerSubclass(Post.class);
 
         Parse.initialize(new Parse.Configuration.Builder(this)
                 .applicationId("tbYbz7xlFzb9KjEBGgx5GqP1lFWXWI75dG2JWjSF") // should correspond to Application Id env variable
